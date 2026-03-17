@@ -1,80 +1,77 @@
-# Benjamin Okwama 👋
+# Benjamin Okwama
 
-**Full-Stack Engineer · Systems Builder · Nairobi, Kenya 🇰🇪**
+Full-Stack Engineer · Systems Builder  
+Nairobi, Kenya
 
-I build scalable software and financial infrastructure for African businesses, freelancers, and logistics systems.
+Building financial systems, ERP platforms, and infrastructure for African businesses.
 
 ---
 
-## 🚀 Current Projects
+## Work
 
-### 🛫 AirLogix
+### AirLogix
 Aviation operations platform for African carriers  
-→ Flight operations · maintenance tracking · logistics coordination  
-🔗 https://github.com/okwama/airlogix-android
+Flight operations · maintenance tracking · logistics coordination  
+
+https://github.com/okwama/airlogix-android
 
 ---
 
-### 💳 Africa Freelance Payout Card (AFPC)
-Fintech platform enabling African freelancers to receive global payments and withdraw locally  
-→ USD wallets · virtual cards · M-Pesa payouts  
+### Africa Freelance Payout Card (AFPC)
+Financial infrastructure for African freelancers  
+USD wallets · virtual cards · local withdrawals  
 
 ---
 
-### 📦 GizmoJunction
-Tech retail e-commerce + ERP system (Kenya-focused)  
-→ Inventory · cost tracking · profit analytics · KRA eTIMS compliance  
-→ Payments: M-Pesa + Paystack  
+### GizmoJunction
+E-commerce and ERP platform for Kenyan retail  
+Inventory · payments · tax compliance (KRA eTIMS)  
 
 ---
 
-### 📒 Clarity Books
-Multi-tenant cloud accounting SaaS for East Africa  
-→ Bookkeeping · PAYE · tax compliance · M-Pesa reconciliation  
+### Clarity Books
+Multi-tenant accounting platform for East Africa  
+Bookkeeping · PAYE · tax workflows · M-Pesa reconciliation  
 
 ---
 
-## 🧠 What I Focus On
+## Focus
 
-- Fintech Systems (Payments, Wallets, FX)
-- ERP & Accounting Infrastructure
-- SaaS Platforms for African Markets
-- Backend Systems & API Design
+- Financial infrastructure
+- ERP and accounting systems
+- Backend systems and APIs
+- SaaS platforms for African markets
 
 ---
 
-## ⚡ Tech Stack
+## Stack
 
-**Frontend**
+Frontend  
 SvelteKit · Next.js · TypeScript  
 
-**Backend**
+Backend  
 Go · Node.js · PHP  
 
-**Database & Infra**
+Infrastructure  
 PostgreSQL · Supabase · Docker  
 
-**Mobile**
+Mobile  
 Swift (iOS)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okwama&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=okwama&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okwama&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🌍 Vision
-
-To build financial and operational infrastructure that enables African businesses and freelancers to operate globally without friction.
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okwama&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🤝 Connect
+## Contact
 
-- LinkedIn: https://linkedin.com/in/benjamin-okwama-a813871aa  
-- Email: bennjiokwama@gmail.com  
-- Location: Nairobi, Kenya
+LinkedIn  
+https://linkedin.com/in/benjamin-okwama-a813871aa  
+
+Email  
+bennjiokwama@gmail.com
