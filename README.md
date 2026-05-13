@@ -26,7 +26,7 @@ USD wallets · virtual cards · local withdrawals
 ### GizmoJunction
 E-commerce and ERP platform for Kenyan retail  
 Inventory · payments · tax compliance (KRA eTIMS)  
-
+https://www.gizmojunction.com/
 ---
 
 ### Clarity Books
